@@ -1,0 +1,8 @@
+{
+  "name": "ImmunoGuard PH",
+  "description": "ImmunoGuard PH — Multi-Modal Food Risk Classification System for Immunocompromised Users.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
